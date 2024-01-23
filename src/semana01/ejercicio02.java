@@ -44,6 +44,13 @@ public class ejercicio02 {
  
 
         System.out.printf("%3d %-10S %10.2f %5d %10.2f\n", 1, nombreProducto1, precioProducto1, cantidadProducto1, precioProducto1*cantidadProducto1);
-        System.out.printf("%3d %-10S %10.2f %5d %10.2f\n", 2, nombreProducto2, precioProducto2, cantidadProducto2, precioProducto2*cantidadProducto2);
-    }
+        System.out.printf("%3d %-10S %10.2f %5d %10.2f\n", 2, nombreProducto2, precioProducto2, cantidadProducto2, precioProducto2*cantidadProducto2);                     
+  
+        
+        
+        System.out.println("####################");
+        System.out.printf ("%15S\n", "VUELVA PRONTO");
+        System.out.println("####################");
+ 
+}
 }
